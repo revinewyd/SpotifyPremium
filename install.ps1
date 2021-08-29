@@ -3,15 +3,15 @@ $PSDefaultParameterValues['Stop-Process:ErrorAction'] = 'SilentlyContinue'
 
 write-host @'
 ***************** 
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@revinewyd message:
+Follow my socials!
+https://myurls.co/revinewyd
 ***************** 
 '@
 
 write-host @'
 ***************** 
-Author: @Nuzair46
+Author: @revinewyd
 ***************** 
 '@
 
@@ -212,9 +212,9 @@ Write-Host 'Done.'
 
 write-host @'
 ***************** 
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@revinewyd message:
+Follow my socials!
+https://myurls.co/revinewyd
 ***************** 
 '@
 
