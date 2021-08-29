@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master)  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/U8Kh2czvks)
+[![Instagram](https://www.instagram.com/revinewyd/)
 
 <center>
     <h3 align="center"><a href="https://discord.gg/U8Kh2czvks">Make Sure to Join My Discord Server</a></h3>
