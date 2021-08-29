@@ -30,7 +30,7 @@
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
-* Just download and run [BlockTheSpot.bat](https://raw.githack.com/revinewyd/SpotifyPremium/blob/main/BlockTheSpot.bat)  
+* Just download and run [BlockTheSpot.bat](https://raw.githubusercontent.com/revinewyd/SpotifyPremium/main/BlockTheSpot.bat)  
 
 or
 
