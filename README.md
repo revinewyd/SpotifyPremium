@@ -1,5 +1,3 @@
-[![Instagram](https://www.instagram.com/revinewyd/)
-
 <center>
     <h3 align="center"><a href="https://discord.gg/U8Kh2czvks">Make Sure to Join My Discord Server</a></h3>
     <h3 align="center">Follow me on Instagram @revinewyd</h3>
@@ -36,7 +34,7 @@ or
 
 * Run The following command in PowerShell:
 ```ps1
-Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/revinewyd/SpotifyPremium/blob/main/install.ps1' | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/revinewyd/SpotifyPremium/main/install.ps1' | Invoke-Expression
 ```
 
 or
